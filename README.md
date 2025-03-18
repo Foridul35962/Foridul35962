@@ -1,5 +1,5 @@
-<meta name="google-site-verification" content="t5QMRKsy4C_w6C_N5EkdSi4N5jlyYq87zo7p1qPW1uo" />
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io)
+
+[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Foridul Ibne Qauser</h1>
 <h3 align="center">A programmer from Bangladesh</h3>
