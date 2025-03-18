@@ -1,5 +1,5 @@
 
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)](https://rishavchanda.io)
+<img src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" alt="MasterHead" width="100%">
 
 <h1 align="center">Hi 👋, I'm Foridul Ibne Qauser</h1>
 <h3 align="center">A programmer from Bangladesh</h3>
