@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/foridulislam.3596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foridulislam.3596" height="30" width="40" /></a>
-<a href="https://instagram.com/foridul64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@foridul64" height="30" width="40" /></a>
+<a href="https://fb.com/foridul35962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foridul35962" height="30" width="40" /></a>
+<a href="https://instagram.com/foridul35962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@foridul35962" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/foridulislam3591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foridulislam3591" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/foridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="foridul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/foridul35962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="foridul35962" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Foridul-Ibne-Qauser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Foridul-Ibne-Qauser" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
