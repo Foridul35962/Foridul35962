@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Foridul Ibne Qauser</h1>
 <h3 align="center">A programmer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foridul35962&label=Profile%20views&color=0e75b6&style=flat" alt="foridul35962" /> </p>
