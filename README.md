@@ -78,6 +78,24 @@
             <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="40" height="40" /> </a>
+            <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                alt="redux" width="40" height="40"/> </a>
+            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                alt="nodejs" width="40" height="40"/> </a>
+            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img 
+                src="https://www.clementkoenig.fr/img/express.png" 
+                alt="express" width="40" height="40"/> </a>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+                alt="mongodb" width="40" height="40"/> </a>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" /> </a>
+            <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"> <img 
+                src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" 
+                alt="jwt" width="40" height="40"/> </a>
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" /> </a>
@@ -94,9 +112,6 @@
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
                 src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png"
                 alt="bash" width="40" height="40" /> </a>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
                 src="https://iconape.com/wp-content/png_logo_vector/adobe-photoshop-mobile-icon.png"
                 alt="photoshop" width="40" height="40" /> </a>
