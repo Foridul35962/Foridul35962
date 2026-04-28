@@ -32,98 +32,70 @@
 - ⚡ Fun fact **I love solving puzzles and competitive programming challenges!**
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <table align="center">
+    <tr>
+       <td align="center" width="80">
     <a href="https://fb.com/foridul35962" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="foridul35962" height="30" width="40" /></a>
+            alt="foridul35962" height="40" width="40" /></a>
+           </td>
+        <td align="center" width="80">
     <a href="https://instagram.com/foridul35962" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="@foridul35962" height="30" width="40" /></a>
+            alt="@foridul35962" height="40" width="40" /></a>
+            </td>
+        <td align="center" width="80">
     <a href="https://www.linkedin.com/in/foridul-ibne-qauser" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/foridul-ibne-qauser/" height="30" width="40" /></a>
+            alt="https://www.linkedin.com/in/foridul-ibne-qauser/" height="40" width="40" /></a>
+            </td>
+        <td align="center" width="80">
     <a href="https://www.hackerrank.com/foridulislam3591" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="foridulislam3591" height="30" width="40" /></a>
+            alt="foridulislam3591" height="40" width="40" /></a>
+            </td>
+        <td align="center" width="80">
     <a href="https://codeforces.com/profile/foridul" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="foridul" height="30" width="40" /></a>
+            alt="foridul" height="40" width="40" /></a>
+            </td>
+        <td align="center" width="80">
     <a href="https://www.leetcode.com/Foridul-Ibne-Qauser" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="Foridul-Ibne-Qauser" height="30" width="40" /></a>
+            alt="Foridul-Ibne-Qauser" height="40" width="40" /></a>
+            </td>    
+    </tr>
+  </table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-            <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-                height="40" /> </a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-            <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-            <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                alt="tailwindCss" width="40" height="40" /> </a>
-            <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" /> </a>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                alt="redux" width="40" height="40"/> </a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40"/> </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img 
-                src="https://www.clementkoenig.fr/img/express.png" 
-                alt="express" width="40" height="40"/> </a>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-                alt="mongodb" width="40" height="40"/> </a>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a>
-            <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
-                alt="redis" width="40" height="40"/> </a>
-            <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-                alt="redis" width="40" height="40"/> </a>
-            <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"> <img 
-                src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" 
-                alt="jwt" width="40" height="40"/> </a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a>
-            <a href="https://www.codeblocks.org" rel="noreferrer"> <img
-                src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png"
-                alt="codeblocks" width="40" height="40" /> </a>
-            <a href="https://code.visualstudio.com/" rel="noreferrer"> <img 
-                src="https://avatars.githubusercontent.com/u/61069792?s=280&v=4" alt="vscode" width="40" height="40" /> </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="python" width="40" height="40" /> </a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-                width="40" height="40" /> </a>
-            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-                src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png"
-                alt="bash" width="40" height="40" /> </a>
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-                src="https://iconape.com/wp-content/png_logo_vector/adobe-photoshop-mobile-icon.png"
-                alt="photoshop" width="40" height="40" /> </a>
-            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-                width="40" height="40" /> </a>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" title="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" title="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" title="Node.js"/>
+  <img src="https://www.clementkoenig.fr/img/express.png" width="45" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" title="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" title="Docker"/>
+  <img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="45" title="JWT"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://avatars.githubusercontent.com/u/61069792?s=280&v=4" width="45" title="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png" width="45" title="Bash"/>
+  <img src="https://iconape.com/wp-content/png_logo_vector/adobe-photoshop-mobile-icon.png" width="45" title="Photoshop"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" title="Illustrator"/>
 </p>
 
 
