@@ -99,7 +99,9 @@
 </p>
 
 
----
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
@@ -133,7 +135,6 @@
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Foridul35962&theme=tokyo-night&hide_border=true"/>
 </p> -->
 
----
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
