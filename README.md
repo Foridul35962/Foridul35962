@@ -99,18 +99,41 @@
 </p>
 
 
+---
+
 <h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=foridul35962&show_icons=true&locale=en&layout=compact"
-        alt="foridul35962" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Foridul35962&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Foridul35962&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" />
 </p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=foridul35962&show_icons=true&locale=en"
-        alt="foridul35962" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foridul35962&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Foridul35962&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foridul35962&" alt="foridul35962" /></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+
+<!-- <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foridul35962&show_icons=true&locale=en&layout=compact"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=foridul35962&show_icons=true&locale=en"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foridul35962"/>
+</p>
+
+<p>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Foridul35962&theme=tokyo-night&hide_border=true"/>
+</p> -->
+
+---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
