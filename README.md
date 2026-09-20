@@ -119,12 +119,12 @@
 </a> -->
 
 <p align="center">
-    <img alt="Ahmed's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=Foridul35962&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
-    <img alt="Ahmed's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Foridul35962&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+    <img alt="Foridul's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=Foridul35962&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+    <img alt="Foridul's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Foridul35962&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
 </p>
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  height="210px" alt="Ahmed's streak" width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Foridul35962&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
-    <img alt="Ahmed's Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foridul35962&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  height="210px" alt="Foridul's streak" width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Foridul35962&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+    <img alt="Foridul's Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foridul35962&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
 </p>
 
 
