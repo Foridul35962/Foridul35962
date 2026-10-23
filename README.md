@@ -102,8 +102,6 @@
   <img src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png" width="45" title="Bash"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
   <img src="https://avatars.githubusercontent.com/u/61069792?s=280&v=4" width="45" title="VS Code"/>
-  <img src="https://iconape.com/wp-content/png_logo_vector/adobe-photoshop-mobile-icon.png" width="45" title="Photoshop"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" title="Illustrator"/>
 </p>
 
 
