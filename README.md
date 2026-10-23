@@ -81,19 +81,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" title="Tailwind CSS"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" title="NextJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" title="Redux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" title="Node.js"/>
   <img src="https://www.clementkoenig.fr/img/express.png" width="45" title="Express.js"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" title="Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" title="Nginx"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" title="Postgresql"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" title="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" title="Kuernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" title="Docker"/>
   <img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="45" title="JWT"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://avatars.githubusercontent.com/u/61069792?s=280&v=4" width="45" title="VS Code"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" title="Grafana"/>
   <img src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png" width="45" title="Bash"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+  <img src="https://avatars.githubusercontent.com/u/61069792?s=280&v=4" width="45" title="VS Code"/>
   <img src="https://iconape.com/wp-content/png_logo_vector/adobe-photoshop-mobile-icon.png" width="45" title="Photoshop"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" title="Illustrator"/>
 </p>
